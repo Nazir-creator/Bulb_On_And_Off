@@ -1,0 +1,34 @@
+ 
+        span {
+            font-size: 1.6rem;
+        }
+
+
+        #imagePosition{
+            width: 12rem;
+            margin: auto;
+            height: 22rem;
+        }
+     
+       
+        h1{
+            text-align: center;
+        }
+    
+      #buttons {
+          display: flex;
+          justify-content: center;
+      }
+
+        button {
+            padding: 1rem;
+            margin: 12px;
+        }
+
+        #logo  {
+            width: 50%;
+        }
+
+        img{
+            width: 100%;
+        }
